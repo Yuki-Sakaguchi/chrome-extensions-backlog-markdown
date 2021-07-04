@@ -3,9 +3,6 @@
   "name": "Backlog or Markdown",
   "version": "0.0.1",
   "description": "開いているページがBacklog記法かMarkdown記法かを判別してヘッダーメニューに表示します。",
-  "permissions": [
-    "activeTab"
-  ],
   "content_scripts": [
     {
       "matches": [
